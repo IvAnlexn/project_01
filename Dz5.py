@@ -7,7 +7,7 @@
 # Формат вывода:
 # Необходимо взять в долг ХХХ.ХХ рублей
 
-salary, expenses = 10000, 12000
+salary, expenses = 8, 10
 dolg = expenses - salary
 for i in range(11):
     expenses += expenses * 0.03
